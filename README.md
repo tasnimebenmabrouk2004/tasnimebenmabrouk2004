@@ -37,7 +37,7 @@
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,vscode,github,figma,git,react,javascript,mysql,spring,flask,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,vscode,github,figma,git,react,javascript,mysql,bootstrap" />
 </div>
 
 <br/>
@@ -77,9 +77,3 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-<a href='https://ko-fi.com/your-ko-fi' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
